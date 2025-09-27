@@ -1,0 +1,13 @@
+DermAssist/
+│
+├── README.md  
+├── LICENSE  
+├── requirements.txt  
+├── app/  
+│   ├── main.py (Flask/Streamlit app)
+│   ├── templates/ (HTML if Flask)  
+│   └── static/ (CSS, JS, images)
+├── models/ (saved model weights)
+├── notebooks/ (Jupyter notebooks for experiments)
+├── data/ (sample images)
+└── docs/ (architecture diagrams, screenshots)
