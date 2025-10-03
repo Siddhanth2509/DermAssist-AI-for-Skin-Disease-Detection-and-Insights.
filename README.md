@@ -14,5 +14,6 @@ DermAssist is an AI-powered platform for skin disease detection and insights. It
 pip install kaggle
 
 Copy code
+
 2. Set up your Kaggle API key ([Guide](https://www.kaggle.com/docs/api)).
 3. Run:
